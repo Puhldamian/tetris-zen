@@ -1,0 +1,14 @@
+{
+  "name": "Tetris Zen",
+  "short_name": "Tetris",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3242/3242257.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
